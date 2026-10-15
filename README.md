@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Gourangi 👋
+
+Engineering student interested in software development, data science and AI.
+Currently learning Python, Java, DSA and web development.
 
 <!--
 **GourangiK/GourangiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
